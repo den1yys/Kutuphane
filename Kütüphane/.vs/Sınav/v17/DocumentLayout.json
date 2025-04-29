@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\s\u0131nav\\frmkitapsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmkitapsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmGiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\FrmGiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\s\u0131nav\\frmgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmgiri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\s\u0131nav\\frmmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmmen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|c:\\users\\deniz\\desktop\\s\u0131nav\\s\u0131nav\\frmkitapsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmkitapsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\FrmKay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\s\u0131nav\\frmkitapsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmkitapsorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\FrmMen\u00FC.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|c:\\users\\deniz\\desktop\\s\u0131nav\\s\u0131nav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|c:\\users\\deniz\\desktop\\s\u0131nav\\s\u0131nav\\frmgiri\u015F.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmgiri\u015F.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\DbHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\DbHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\s\u0131nav\\frmkitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmkitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSil.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\FrmKitapSil.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\FrmMen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\FrmKitapSorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\FrmKitapEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\s\u0131nav\\frmkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\frmkay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:S\u0131nav\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|C:\\Users\\deniz\\Desktop\\S\u0131nav\\s\u0131nav\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B80089-2CEA-4261-8659-79DE265F59CE}|S\u0131nav\\S\u0131nav.csproj|solutionrelative:s\u0131nav\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Program.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\Program.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Program.cs",
+              "RelativeToolTip": "S\u0131nav\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:13:44.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmGiri\u015F.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmGiri\u015F.Designer.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmGiri\u015F.Designer.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmGiri\u015F.Designer.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmGiri\u015F.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:13:31.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmMen\u00FC.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.Designer.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmMen\u00FC.Designer.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.Designer.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmMen\u00FC.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T21:10:09.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmKitapSorgula.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSorgula.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKitapSorgula.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSorgula.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S\u0131nav\\FrmKitapSorgula.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:39:16.102Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmKitapSil.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSil.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKitapSil.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSil.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S\u0131nav\\FrmKitapSil.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:52:48.92Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmKay\u0131t.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKay\u0131t.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKay\u0131t.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKay\u0131t.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmKay\u0131t.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:42:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmKitapSil.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSil.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKitapSil.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSil.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmKitapSil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:54:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmGiri\u015F.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmGiri\u015F.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmGiri\u015F.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmGiri\u015F.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S\u0131nav\\FrmGiri\u015F.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:17:09.586Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmMen\u00FC.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmMen\u00FC.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S\u0131nav\\FrmMen\u00FC.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:47:55.257Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGiri\u015F.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmGiri\u015F.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmGiri\u015F.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmGiri\u015F.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmGiri\u015F.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:02:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmMen\u00FC.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmMen\u00FC.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmMen\u00FC.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmMen\u00FC.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvywAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:49:39.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\DbHelper.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\DbHelper.cs",
+              "RelativeToolTip": "S\u0131nav\\DbHelper.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wGoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:05:57.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmKitapEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapEkle.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKitapEkle.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S\u0131nav\\FrmKitapEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:39:07.901Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmKitapSil.resx",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSil.resx",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKitapSil.resx",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSil.resx",
+              "RelativeToolTip": "S\u0131nav\\FrmKitapSil.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-29T21:10:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmKitapSorgula.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSorgula.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKitapSorgula.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapSorgula.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmKitapSorgula.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:40:30.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmKitapEkle.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapEkle.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKitapEkle.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKitapEkle.cs",
+              "RelativeToolTip": "S\u0131nav\\FrmKitapEkle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:44:47.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmKay\u0131t.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKay\u0131t.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\FrmKay\u0131t.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\FrmKay\u0131t.cs [Tasar\u0131m]",
+              "RelativeToolTip": "S\u0131nav\\FrmKay\u0131t.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:16:52.776Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Form1.Designer.cs",
+              "RelativeToolTip": "S\u0131nav\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:42:16.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Form1.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\Form1.cs",
+              "ToolTip": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Form1.cs",
+              "RelativeToolTip": "S\u0131nav\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:16:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\deniz\\Desktop\\S\u0131nav\\S\u0131nav\\Form1.cs",
+              "RelativeDocumentMoniker": "S\u0131nav\\Form1.cs",
+              "ToolTip": "C:\\Users\\deniz\\OneDrive\\Belgeler\\NTP\\S\u0131nav\\S\u0131nav\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Belgeler\\NTP\\S\u0131nav\\S\u0131nav\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T18:13:30.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
